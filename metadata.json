@@ -1,0 +1,6 @@
+{
+  "name": "AquaTrack",
+  "description": "A smart, visually elegant daily water intake tracker featuring local persistence and custom reminder notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

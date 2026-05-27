@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Droplet Shadow/Backing -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:pathData="M54,24 C50,29 32,54 32,68 C32,80 41.8,90 54,90 C66.2,90 76,80 76,68 C76,54 58,29 54,24 Z" />
+    <!-- White Water Droplet Core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,27 C51,32 35,56 35,68 C35,78.5 43.5,87 54,87 C64.5,87 73,78.5 73,68 C73,56 57,32 54,27 Z" />
+    <!-- Accent Highlight inside droplet -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M44,68 C44,61 49,50 54,44 C53,49 46,62 46,68 C46,72.4 49.6,76 54,76 C48.5,76 44,71.5 44,68 Z" />
+</vector>
